@@ -1,5 +1,11 @@
 ### Hi there 👋 I'm Nick White
 
+- 🔭 I’m currently working on KMJ coin
+- 🌱 I’m currently learning React, Solididty, & Web3 
+- 🤔 I’m looking for help with connecting Web3 dapps tot the blockachain 
+- 💬 Ask me about Kai Lenneys epic Nazare Wipeout
+- 📫 How to reach me: Shoot me a message on twitter
+- ⚡ Fun fact: My favorite programming langauage is C.
 <!--
 **NicholasKawikaWhite/NicholasKawikaWhite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
